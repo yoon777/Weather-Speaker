@@ -1,2 +1,1 @@
-http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getVilageFcst?
-serviceKey=ASE4bZ0DJsBdssZbJzwUU7CswYHMKv7DdZ0VEXw9Cmp18FfGi9kJoa%2BS%2BBoQ4%2FuAJkUtb0WapPydrlg0D78HMw%3D%3D&numOfRows=30&pageNo=1&dataType=json&base_date=20230602&base_time=0200&nx=55&ny=127
+제발 돼라 push야
