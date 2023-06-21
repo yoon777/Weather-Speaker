@@ -70,7 +70,7 @@ public class Weather_json {
 
             if(time_array.size() != 0){
 
-               
+
                 time = String.join("시, ", time_array) + "시에 강수가 있습니다";
             }
             else{
