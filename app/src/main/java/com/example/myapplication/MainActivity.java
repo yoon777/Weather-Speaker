@@ -268,7 +268,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
 
         this.pendingIntent = null;
         speakOut();
-        Toast.makeText(getApplicationContext(), weather_result,Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), weather_result,Toast.LENGTH_LONG).show();//toastmessage로 날씨정보 띄우기
 
     }
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
